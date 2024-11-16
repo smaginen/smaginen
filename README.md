@@ -7,4 +7,3 @@
 
 ## Contacts
 * telegram: [@smagin_en](https://t.me/smagin_en)
-* email: [i@smagin.ru](mailto:i@zhenysmagin@yandex.ru)
